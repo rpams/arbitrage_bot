@@ -1,0 +1,14 @@
+{
+  "name": "arbitrage_bot",
+  "version": "1.0.0",
+  "description": "Arbitrage bot with 1inch protocol",
+  "main": "index.js",
+  "repository": "https://github.com/rpams/arbitrage_bot.git",
+  "author": "rpams",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^9.1.0",
+    "dotenv": "^16.0.1",
+    "web3": "^1.7.5"
+  }
+}
